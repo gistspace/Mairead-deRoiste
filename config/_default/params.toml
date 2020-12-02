@@ -92,14 +92,14 @@ email = "mairead.deroiste@vuw.ac.nz"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {building = "CO 215, Cotton Building (All Blocks), Gate 7", street = "Kelburn Parade", city = "Wellington", postcode = "6012", country = "New Zealand", country_code = "NZ"}
+address = {street = "CO 215, Cotton Building (All Blocks), Gate 7, Kelburn Parade", city = "Wellington", postcode = "6012", country = "New Zealand", country_code = "NZ"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "-41.290006", longitude = "174.768503"} 
 
 # Directions for visitors to locate you.
-directions = "Enter Te Toki a Rata Building, continue through to the cotton building and take the stairs to Level 2 (first floor), office is beside elevator"
+directions = "Enter Te Toki a Rata Building, continue through to the Cotton Building and take the stairs to Level 2 (first floor), office is beside elevator"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
