@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mairead de Roiste
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor (Reader) of Geographic Information Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Victoria University of Wellington
+  url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include how people use and understand geographic information and systems incorporating usability, geovisualization, and public participation GIS and understanding GIS pedagogy and capability building.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Usability
+- Public Participation GIS (PPGIS)
+- GIS pedagogy and capability building
 
 # Education to show in About widget
 education:
