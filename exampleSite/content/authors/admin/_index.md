@@ -25,15 +25,21 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postgraduate Certificate in Higher Education Learning and Teaching 
+    institution: Victoria University of Wellington
+    year: 2020
+  - course: PhD in Geography
+    institution: Trinity College, Dublin
+    year: 2007
+  - course: Postgraduate Diploma in Statistics
+    institution: Trinity College, Dublin
+    year: 2006
+  - course: MSc in Geographic Information Science (GIS)
+    institution: University of Leicester
+    year: 2002
+  - course: BA (hons) Geography and Economics
+    institution: Trinity College, Dublin
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
