@@ -25,22 +25,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
-  company_url: ""
+- company: Victoria University of Wellington
+  company_url: "https://www.wgtn.ac.nz/"
   date_end: ""
-  date_start: "2017-01-01"
+  date_start: "2020-01-01"
   description: |-
     Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
+    * Lecturing
+    * Research
+  location: Wellington
+  title: Associate Professor
+- company: Victoria University of Wellington
   company_url: ""
-  date_end: "2016-12-31"
+  date_end: "2020-12-31"
   date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+  description: Stuff
+  location: Victoria University of Wellington
+  title: Senior Lecturer
 ---
