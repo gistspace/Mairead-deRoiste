@@ -1,37 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mairead de Roiste
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Geographic Information Science (GIS)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Victoria University of Wellington
+  url: "https://www.wgtn.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include how people use and understand geographic information and systems incorporating usability, geovisualization, and public participation GIS and understanding GIS pedagogy and capability building.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Usability
+- Public Participation GIS (PPGIS)
+- GIS pedagogy and capability building
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postgraduate Certificate in Higher Education Learning and Teaching 
+    institution: Victoria University of Wellington
+    year: 2020
+  - course: PhD in Geography
+    institution: Trinity College, Dublin
+    year: 2007
+  - course: Postgraduate Diploma in Statistics
+    institution: Trinity College, Dublin
+    year: 2006
+  - course: MSc in Geographic Information Science (GIS)
+    institution: University of Leicester
+    year: 2002
+  - course: BA (hons) Geography and Economics
+    institution: Trinity College, Dublin
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
