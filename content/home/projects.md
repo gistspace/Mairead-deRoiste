@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Pedagogy and Capability Building"
+    name = "Pedagogy & Capability"
     tag = "Pedagogy"
   
   [[content.filter_button]]
