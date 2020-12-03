@@ -1,7 +1,10 @@
 ---
 title: "Benefits, barriers, and incentives for improved resilience to disruption in university teaching"
 authors:
+- Dohaney, J.
 - admin
+- Salmon, R.A.
+- Sutherland, K.
 
 author_notes:
 - "Equal contribution"
@@ -22,10 +25,10 @@ publication_types: ["2"]
 publication: "*International Journal of Disaster Risk Reduction, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pandemics, earthquakes, fire, war, and other disasters place universities at risk. Disasters can disrupt learning and teaching (L&T) for weeks to months or longer. Some institutions have developed business continuity plans to protect key organisational services and structures, allowing L&T to continue. However, little research touches on how academics, learners, and communities of practice might respond before, during, and after disasters and how their resilience to disruption can be fostered to reduce impacts on L&T. In this research, we investigated academics’ perceptions of building resilience to major L&T disruptions in the New Zealand context. Specifically, we explored how academics characterise a resilient academic and institution, and identified the benefits, barriers, and incentives to building resilience. We used a pragmatic theoretical approach with a mixed methods methodology, to categorise the results within three distinct levels (individual, school/department, and institution), supporting the design and implementation of resilience-building strategies for academics and institutional leaders. We found that support, community, leadership, and planning at universities are critical in building and inhibiting resilience. Participants reported several ‘high impact’ incentives, addressing multiple barriers, that could be used to kick-start resilience. Online and flexible learning are key opportunities for resilience-building, but universities should not underestimate the importance of face-to-face interactions between staff and learners. Our results provide a strong starting point for practitioners and researchers aiming to understand how universities can foster resilience to major disruptions and disasters on university teaching.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2212420920302119
 url_code: ''
 url_dataset: ''
 url_poster: ''
