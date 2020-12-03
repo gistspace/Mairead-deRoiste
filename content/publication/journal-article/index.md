@@ -1,10 +1,10 @@
 ---
 title: "Benefits, barriers, and incentives for improved resilience to disruption in university teaching"
 authors:
-- J. Dohaney
+- J Dohaney
 - admin
-- Salmon, R.A.
-- Sutherland, K.
+- RA Salmon
+- K Sutherland
 
 author_notes:
 - "Equal contribution"
