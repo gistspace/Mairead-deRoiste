@@ -49,13 +49,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GISTspace
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=hLaHjh8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gistspace
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mairead.deroiste@vuw.ac.nz"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mairéad de Róiste is an Associate Professor (Reader) in Geographic Information Science (GIS) at Victoria University of Wellington, Aotearoa New Zealand. She completed her PhD in Geography and a postgraduate diploma in Statistics at Trinity College Dublin and a Masters in GIS at the University of Leicester.  She has substantive research interests into 1. how people use and understand geographic information and systems incorporating usability, geovisualization, and public participation GIS and 2. understanding GIS pedagogy and capability building.  Current research projects include: using virtual reality  (VR) to model wetlands and support identity building with Ngāti Kahungunu ki Wairarapa; modelling social and cultural values for ecosystem service (ES) approaches (using LUCI); exploring the influence of visualization methods on ES informed decision making; modelling residential and transport decisions in the Greater Wellington Region; establishing usability methods for online maps; and exploring graduate pathways and barriers to the GIS industry. 
